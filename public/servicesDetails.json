@@ -1,0 +1,64 @@
+{
+    "services": [
+        {
+            "name": "Find Doctor",
+            "email": "fd@doctorbati.com",
+            "id": "1",
+            "phone": "015-962-7516",
+            "discribtion": "Find a Doctor with Expertise that Meets Your Health Needs",
+            "picture": {
+                "thumbnail": "https://i.ibb.co/VVFdSnt/find.png"
+            }
+        },
+        {
+            "name": "Pathology",
+            "email": "fd@doctorbati.com",
+            "id": "2",
+            "phone": "08-962-7516",
+            "discribtion": "Pathology is the medical specialty concerned with the study of the nature and causes of diseases.",
+            "picture": {
+                "thumbnail": "https://i.ibb.co/T1p42pm/pathology.jpg"
+            }
+        },
+        {
+            "name": "Pharmacy",
+            "email": "fd@doctorbati.com",
+            "id": "3",
+            "phone": "09-962-7516",
+            "discribtion": "A hospital pharmacy is a department within a hospital that prepares",
+            "picture": {
+                "thumbnail": "https://i.ibb.co/vj0tNWK/pharmacy.jpg"
+            }
+        },
+        {
+            "name": "Emergency Room",
+            "email": "fd@doctorbati.com",
+            "id": "4",
+            "phone": "017-962-7516",
+            "discribtion": "An emergency department, also known as an accident & emergency department.",
+            "picture": {
+                "thumbnail": "https://i.ibb.co/GnHckky/emergency.jpg"
+            }
+        },
+        {
+            "name": "ICU",
+            "email": "fd@doctorbati.com",
+            "id": "5",
+            "phone": "011-962-7516",
+            "discribtion": "Intensive care units (ICUs) are specialist hospital wards that provide treatment and monitoring for people who are very ill.",
+            "picture": {
+                "thumbnail": "https://i.ibb.co/S3ccsnS/icu.jpg"
+            }
+        },
+        {
+            "name": "Ambulance",
+            "email": "fd@doctorbati.com",
+            "id": "6",
+            "phone": "018-962-7516",
+            "discribtion": "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals.",
+            "picture": {
+                "thumbnail": "https://i.ibb.co/rfV5qgL/ambulance.jpg"
+            }
+        }
+    ]
+}

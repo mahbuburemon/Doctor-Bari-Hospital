@@ -1,0 +1,9 @@
+.service{
+    
+    margin: 20px;
+  
+  
+ }
+.card:hover{
+   box-shadow: 5px 10px 20px 1px rgba(255, 6, 6, 0.253)!important;
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Find Doctors",
+        "id": "1",
+        "describtion": "Search a person licensed to practice medicine, as a physician, surgeon, dentist, or veterinarian.",
+        "img": "https://i.ibb.co/VVFdSnt/find.png"
+    },
+    {
+        "name": "Pathology",
+        "id": "2",
+        "describtion": "Pathology is the medical specialty concerned with the study of the nature and causes of diseases.",
+        "img": "https://i.ibb.co/T1p42pm/pathology.jpg"
+    },
+    {
+        "name": "Pharmacy",
+        "id": "3",
+        "describtion": "A hospital pharmacy is a department within a hospital that prepares, compounds, stocks and dispenses inpatient medications.",
+        "img": "https://i.ibb.co/vj0tNWK/pharmacy.jpg"
+    },
+    {
+        "name": "Emergency Room",
+        "id": "4",
+        "describtion": "An emergency department, also known as an accident & emergency department.",
+        "img": "https://i.ibb.co/GnHckky/emergency.jpg"
+    },
+    {
+        "name": "ICU",
+        "id": "5",
+        "describtion": "Intensive care units (ICUs) are specialist hospital wards that provide treatment and monitoring for people who are very ill.",
+        "img": "https://i.ibb.co/S3ccsnS/icu.jpg"
+    },
+    {
+        "name": "Ambulance",
+        "id": "6",
+        "describtion": "An ambulance is a medically equipped vehicle which transports patients to treatment facilities, such as hospitals.",
+        "img": "https://i.ibb.co/rfV5qgL/ambulance.jpg"
+    }
+]
